@@ -17,6 +17,11 @@ List all containers
 $ docker ps -a
 ```
 
+View available docker images
+```bash
+$ docker images
+```
+
 Start a container
 ```bash
 $ docker start <container_id>
@@ -59,9 +64,4 @@ docker run -d -p 5001:5000 --name dc-python-hw python-helloworld
 Create a container using a tagged image
 ```bash
 docker run -d -p 5001:5000 --name dc-python-hw dhanushka/python-helloworld:v1.0.0
-```
-
-View available docker images
-```bash
-$ docker images
 ```
