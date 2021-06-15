@@ -1,4 +1,4 @@
-# Cloud-Native-Fundamentals-Udacity
+# Cloud-Native Fundamentals Udacity ☁️🔧
 
 ## docker python-hello-world
 
